@@ -1,4 +1,4 @@
-Q5.Write a C program to demonstrate the use of single-line and multi-line comments.
+//Q5.Write a C program to demonstrate the use of single-line and multi-line comments.
 
 
 #include <stdio.h>
@@ -15,7 +15,7 @@ int main()
 
 
 
-OUTPUT-
-Hello, World!
-Demonstration of comments in C.
+//OUTPUT-
+//Hello, World!
+//Demonstration of comments in C.
 
